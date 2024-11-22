@@ -1,1 +1,1 @@
-replace the whole line with your repo address - {user}/{repo}
+Coder06-dev/git-majonez
